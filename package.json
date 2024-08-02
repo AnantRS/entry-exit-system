@@ -1,0 +1,15 @@
+{
+  "name": "entrysystem",
+  "version": "1.0.0",
+  "description": "Creating a sytem that tracks peplw entering and leaving a building",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Anant Raj Shekhar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^5.13.22"
+  }
+}

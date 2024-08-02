@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "numberOfEntry": 1,
+    "numberOfExit": 0
+  },
+  {
+    "id": "3",
+    "numberOfEntry": 1,
+    "numberOfExit": 0
+  },
+  {
+    "id": "4",
+    "numberOfEntry": 4,
+    "numberOfExit": 3
+  },
+  {
+    "id": "5",
+    "numberOfEntry": 1,
+    "numberOfExit": 0
+  },
+  {
+    "id": "7",
+    "numberOfEntry": 0,
+    "numberOfExit": 1
+  },
+  {
+    "id": "10",
+    "numberOfEntry": 1,
+    "numberOfExit": 1
+  },
+  {
+    "id": "11",
+    "numberOfEntry": 3,
+    "numberOfExit": 3
+  },
+  {
+    "id": "12",
+    "numberOfEntry": 2,
+    "numberOfExit": 1
+  }
+]
